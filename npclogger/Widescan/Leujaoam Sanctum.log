@@ -14,3 +14,12 @@
     [17059853] = {['id']=17059853, ['name']="LeujaoamWorm", ['index']=13, ['level']=77},
     [17059852] = {['id']=17059852, ['name']="LeujaoamWorm", ['index']=12, ['level']=77},
     [17060015] = {['id']=17060015, ['name']="RuneofRelease", ['index']=175, ['level']=0},
+    
+    [17059858] = {['id']=17059858, ['name']="QiqirnMiner", ['index']=18, ['level']=82},
+    [17059862] = {['id']=17059862, ['name']="QiqirnMiner", ['index']=22, ['level']=81},
+    [17059863] = {['id']=17059863, ['name']="QiqirnMiner", ['index']=23, ['level']=80},
+    [17059864] = {['id']=17059864, ['name']="MineralEater", ['index']=24, ['level']=73},
+    [17060026] = {['id']=17060026, ['name']="Mulwahah", ['index']=186, ['level']=0},
+    [17059857] = {['id']=17059857, ['name']="QiqirnMiner", ['index']=17, ['level']=82},
+    [17059856] = {['id']=17059856, ['name']="QiqirnMiner", ['index']=16, ['level']=82},
+    [17059860] = {['id']=17059860, ['name']="QiqirnMiner", ['index']=20, ['level']=82},
